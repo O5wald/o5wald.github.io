@@ -75,7 +75,7 @@ theme = "LoveIt"
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "This is Header"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -131,9 +131,9 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "/images/logo.gif"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "O5wald"
+      title = "Oswald"
       # subtitle shown in home page
-      subtitle = "great"
+      subtitle = "Explore| Learn | Share"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -151,12 +151,12 @@ theme = "LoveIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
+    GitHub = "O5wald"
     Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Twitter = "aryankapse10"
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -213,7 +213,7 @@ theme = "LoveIt"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "xxxx@xxxx.com"
+    Email = "electrokid.amk@gmail.com"
     RSS = true # LoveIt NEW | 0.2.0
 
   # LoveIt CHANGED | 0.2.0 Page config
