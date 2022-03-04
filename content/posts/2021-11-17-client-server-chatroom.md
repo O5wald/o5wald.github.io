@@ -12,7 +12,7 @@ In my [previous article](https://dr-deathvolt.github.io/2021-7-17-socket-program
 Let's look at how client-server architecture works first.
 The client-server architecture is a model in which the server hosts, provides, and controls the majority of the resources and services that the client consumes. One or more client computers are connected to a central server through a network or the internet in this architecture.
 
-![client-server](https://www.quickhmi.com/files/slideshows/Network.png)
+![client-server](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png)
 
 
 In our programme, we will create a basic server that will wait for a client to connect and then receive the messages from client and send it to other clients in the server. When someone disconnected then it broadcast the message that the particular client is disconnected.
