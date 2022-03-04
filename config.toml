@@ -131,7 +131,7 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "/images/logo.gif"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "Oswald"
+      title = "/images/logo.gif"
       # subtitle shown in home page
       subtitle = "Explore| Learn | Share"
       # whether to use typeit animation for subtitle
