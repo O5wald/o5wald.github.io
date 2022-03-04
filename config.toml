@@ -133,7 +133,7 @@ theme = "LoveIt"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = " Oswald "
       # subtitle shown in home page
-      subtitle = "Explore| Learn | Share"
+      subtitle = "Explore | Learn | Share"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -474,14 +474,14 @@ theme = "LoveIt"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 2
+#  [[menu.main]]
+#    identifier = "tags"
+#    pre = ""
+#    post = ""
+#    name = "Tags"
+#    url = "/tags/"
+#    title = ""
+#    weight = 2
   [[menu.main]]
     identifier = "categories"
     pre = ""
