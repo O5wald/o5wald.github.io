@@ -214,7 +214,7 @@ theme = "LoveIt"
     Matrix = ""
     Bilibili = ""
     Email = "electrokid.amk@gmail.com"
-    RSS = true # LoveIt NEW | 0.2.0
+    RSS = false # LoveIt NEW | 0.2.0
 
   # LoveIt CHANGED | 0.2.0 Page config
   [params.page]
