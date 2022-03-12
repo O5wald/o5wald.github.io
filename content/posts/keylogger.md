@@ -2,6 +2,7 @@
 title: "Simple Keylogger for Windows"
 draft: false
 author: "Aryan Kapse"
+date: 2021-12-10
 ---
 
 # Simple Keylogger for Windows
