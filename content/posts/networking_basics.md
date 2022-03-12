@@ -2,6 +2,7 @@
 layout: post
 title: "Networking Basics"
 author: Aryan Kapse
+date: 2021-11-01
 draf: false
 ---
 
