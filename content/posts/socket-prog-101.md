@@ -2,6 +2,7 @@
 title: "Socket Programming 101 using C"
 draft: false
 author: "Aryan Kapse"
+date: 2021-11-10
 ---
 
 # Socket Programming 101
