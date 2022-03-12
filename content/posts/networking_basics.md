@@ -73,18 +73,6 @@ layers
 
 - **4.Process/Application layer** : protocols such as HTTP, SMTP, and FTP are implemented.
 
-* * *
-## How data Encapsulate/Decapsulate
-
-#### OSI Model
-
-<img src="https://www.keralanet.in/wp-content/uploads/2020/04/NETWORK-1.gif"/>
-
-#### TCP/IP Model
-<img src="https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/Networking/Animation/FoN-1.12-LayerService-3-3.gif" width="594" hight="313" />
-
-* * *
-
 # Internet Protocol
 
 there are two Versions
