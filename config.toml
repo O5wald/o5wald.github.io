@@ -281,7 +281,7 @@ theme = "LoveIt"
       fullscreen = true
     # LoveIt CHANGED | 0.2.0 social share links in post page
     [params.page.share]
-      enable = true
+      enable = false
       Twitter = true
       Facebook = true
       Linkedin = false
