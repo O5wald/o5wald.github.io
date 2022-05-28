@@ -44,7 +44,7 @@ theme = "LoveIt"
 
   # LoveIt NEW | 0.2.0 Search config
   [params.search]
-    enable = false
+    enable = true
     # type of search engine ("lunr", "algolia")
     type = "lunr"
     # max index length of the chunked content
@@ -85,7 +85,7 @@ theme = "LoveIt"
 
   # Footer config
   [params.footer]
-    enable = true
+    enable = false
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
     custom = ''
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
